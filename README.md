@@ -1,10 +1,10 @@
 ## 🙋 Hola, mi nombre es Juanjo! ✌️
 
 Ahora mismo estoy cursando el modulo superior de desarrollo de aplicaciones WEB en el instituto IES Abdera.
-En esta cuenta de GitHub ire subiendo mis proyectos.
+En esta cuenta de GitHub ire subiendo mis proyectos. 
 
 ____________________________________________________________________________________________________________
-### Tengo conocimientos de: 
+### Tengo conocimientos de:
 * JavaScript
 * Python
 * CSS
@@ -13,6 +13,8 @@ ________________________________________________________________________________
 * SQL
 * Git
 * Github
+
+  
 ____________________________________________________________________________________________________________
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
