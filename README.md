@@ -16,11 +16,8 @@ ________________________________________________________________________________
 
   
 ____________________________________________________________________________________________________________
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<img src="https://github.com/kuakoze/kuakoze/blob/main/octocat-1716190078363.png?raw=true" alt="drawing" width="200"/>
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 #### Puedes contactar conmigo tambien a traves de Instagram.
 [![Instagram](https://img.shields.io/badge/Instagram-@kuakoze-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/kuakoze)
 <!--
